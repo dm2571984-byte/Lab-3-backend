@@ -1,0 +1,32 @@
+## Screenshots
+
+### Server Running
+![Server](screenshots/server.png)
+
+### Create Book
+![POST](screenshots/post-create.png)
+
+### Get Books
+![GET](screenshots/get-books.png)
+
+### Search
+![Search](screenshots/search.png)
+
+### Sorting
+![Sorting](screenshots/sorting.png)
+
+### Price Filter
+![Price Filter](screenshots/price-filter.png)
+
+### Update Book
+![Update](screenshots/put-update.png)
+
+### Delete Book
+![Delete](screenshots/delete.png)
+
+### 404 Error
+![404](screenshots/error-404.png)
+
+### Validation Errors
+![Validation](screenshots/validation-title.png)
+![Invalid Price](screenshots/validation-price.png)
